@@ -1,2 +1,13 @@
-# Responsive-Animated-To-Do-List-App-TypeScript-CSS-
-A beautiful and responsive To-Do List web app built with TypeScript and modern CSS.  Features smooth animations, task completion, deletion, form validation, and full mobile responsiveness.  Perfect for practicing DOM manipulation, event handling, and stylish UI design. 🚀
+# Responsive Animated To-Do List App
+
+This is a sleek and modern To-Do List web application built using **TypeScript** and **CSS**.  
+It features smooth entry animations for tasks, mobile responsiveness, task completion toggles, and deletion with elegant UI effects.  
+
+✅ Built with TypeScript  
+✅ Responsive for all devices  
+✅ Smooth animations (fade-in, hover effects)  
+✅ Input validation to prevent empty tasks  
+✅ Clean, maintainable code  
+✅ Great for beginners learning DOM manipulation and TypeScript event handling!
+
+---
